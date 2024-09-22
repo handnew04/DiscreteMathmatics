@@ -6,4 +6,5 @@
 [4장](https://github.com/handnew04/DiscreteMathmatics/issues/21)\
 [5장](https://github.com/handnew04/DiscreteMathmatics/issues/27)\
 [6장](https://github.com/handnew04/DiscreteMathmatics/issues/36)\
-[7장](https://github.com/handnew04/DiscreteMathmatics/issues/44)
+[7장](https://github.com/handnew04/DiscreteMathmatics/issues/44)\
+[8장](https://github.com/handnew04/DiscreteMathmatics/issues/45)
