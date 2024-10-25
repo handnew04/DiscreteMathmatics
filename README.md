@@ -8,3 +8,6 @@
 [6장](https://github.com/handnew04/DiscreteMathmatics/issues/36)\
 [7장](https://github.com/handnew04/DiscreteMathmatics/issues/44)\
 [8장](https://github.com/handnew04/DiscreteMathmatics/issues/45)
+
+
+2024/07/16~
